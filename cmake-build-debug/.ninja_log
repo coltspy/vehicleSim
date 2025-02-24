@@ -1,0 +1,6 @@
+# ninja log v5
+7	3956	7621305468152176	CMakeFiles/vehicle_sim.dir/src/FilePublisher.cpp.obj	236046cbad58b6f7
+1	4672	7621305475249825	CMakeFiles/vehicle_sim.dir/src/main.cpp.obj	fc9f6a791ad960ec
+10	3396	7621307004770404	CMakeFiles/vehicle_sim.dir/src/FilePublisher.cpp.obj	5eed9cb47d2eb15a
+5	3670	7621307452507533	CMakeFiles/vehicle_sim.dir/src/main.cpp.obj	e0fb122c646fc15
+3670	15208	7621307467389831	vehicle_sim.exe	bbf901303042fec2
